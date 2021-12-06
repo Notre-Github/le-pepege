@@ -1,10 +1,16 @@
 # le-pepege
-UwU
 
-Hewwo Jako ! ^^
+**Style de jeu :** 
 
-Coucou Yoya :3
+**2D ou 3D :**
 
-Jako bibou UwU
+si 3D : 1re ou 3e personne
 
-Yoya c'est incroyable * ^ *
+
+
+
+
+
+
+
+AFK koh... ono
