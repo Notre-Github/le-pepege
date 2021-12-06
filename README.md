@@ -16,4 +16,22 @@ unity pog
 
 linux 😳.
 
-https://www.youtube.com/watch?v=lVBhKRDklGc pas trop.... Nyanners UWU.CHAPEAU
+YATA ! J'installe unity là
+
+ONOOOOOOOOO yatamogus D:
+
+Essayer saut
+Menteur droit devant !
+
+>le mogus drip< 
+
+Go apprendre le C++
+c le C jako non ?
+le c++ c'est le c mais ++$
+oki, ++ Jako !
+o/
+\o
+o/\o
+o/❤️\o
+
+En fait c'est C#, mb :/
