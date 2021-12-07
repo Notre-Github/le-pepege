@@ -3,6 +3,8 @@
 **Style de jeu :** 
 Platformer (parce que c'est drôle :3)
 
+![le ballin :o](https://media1.giphy.com/media/eny5CjtcnEnyYoEpgE/giphy.gif?cid=790b761192002d8f060be0990597ecd28f81efa703059a67&rid=giphy.gif&ct=g)
+
 **2D ou 3D : 3D >:D**
 3D parce que c'est pepeg, du coup c'est drole...
 
