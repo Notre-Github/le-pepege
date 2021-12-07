@@ -39,3 +39,6 @@ En fait c'est C#, mb :/
 yataaaaaaaaaaa D: les momogua les mécaniques sont sus en ce moment...
 
 javou, mogumus
+
+aaaaaa les momogs D:<
+yata j'ai rien fais... 😥😥😥
