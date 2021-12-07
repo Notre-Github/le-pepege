@@ -3,7 +3,7 @@
 **Style de jeu :** 
 Platformer (parce que c'est drôle :3)
 
-<img src="https://zupimages.net/up/21/49/1fhu.gif" width="40" height="40" />
+<img src="https://zupimages.net/up/21/49/1fhu.gif" width="200" height="100" />
 
 **2D ou 3D : 3D >:D**
 3D parce que c'est pepeg, du coup c'est drole...
