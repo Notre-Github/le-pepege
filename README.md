@@ -12,4 +12,4 @@ Platformer
 
 **Style graphique :** 
 
-low poly cuz low effort OwO
+low poly
