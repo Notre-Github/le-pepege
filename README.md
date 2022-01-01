@@ -1,4 +1,4 @@
-# Les aventures sus de Damogus, le projet du siècle (no caps)
+# Les aventures sus de Damogus, le projet du siècle (no cap)
 
 **Style de jeu :**
 
