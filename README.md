@@ -1,8 +1,8 @@
-# Les aventures sus de Damogus, le projet du siècle 😳😳😳
+# Les aventures sus de Damogus, le projet du siècle (no caps)
 
 **Style de jeu :**
 
-Platformer (parce que c'est drôle :3)
+Platformer
 
 
 **2D ou 3D :**
