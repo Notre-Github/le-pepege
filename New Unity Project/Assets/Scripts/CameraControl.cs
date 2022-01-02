@@ -42,8 +42,8 @@ public class CameraControl : MonoBehaviour
 
         float desiredXAngle = pivot.eulerAngles.x;
 
-        if(Input.GetAxis("Vertical") != 0 || Input.GetAxis("Horizontal") != 0)
-        {
+    //   if(Input.GetAxis("Vertical") != 0 || Input.GetAxis("Horizontal") != 0)
+     //   {
             float desiredYAngle = RotationDamogus.eulerAngles.y;
             Quaternion rotation = Quaternion.Euler(desiredXAngle, desiredYAngle, 0);
             transform.position = RotationDamogus.position - (rotation * offset);
@@ -54,12 +54,12 @@ public class CameraControl : MonoBehaviour
             }
             
             transform.LookAt(RotationDamogus);
-        }
-        else
-        {
-            float desiredYAngle = target.eulerAngles.y;
-            Quaternion rotation = Quaternion.Euler(desiredXAngle, desiredYAngle, 0);
-            transform.position = target.position - (rotation * offset);
+    //    }
+    //    else
+      //  {
+//            float desiredYAngle = target.eulerAngles.y;
+            Quaternion rotation2 = Quaternion.Euler(desiredXAngle, desiredYAngle, 0);
+            transform.position = target.position - (rotation2 * offset);
 
             if(transform.position.y < target.position.y - 0.8f)
             {
@@ -67,14 +67,14 @@ public class CameraControl : MonoBehaviour
             }
             
             transform.LookAt(target);
-        }
+   //     }
 
         
 
-        if(Input.GetAxis("Vertical") != 0 || Input.GetAxis("Horizontal") != 0)
-        {
+  //      if(Input.GetAxis("Vertical") != 0 || Input.GetAxis("Horizontal") != 0)
+ //       {
             RotationDamogus.Rotate(0, horizontal, 0);
             //target.rotation = Quaternion.Euler(0,-horizontal,0);
-        }
+ //       }
     }
 }
